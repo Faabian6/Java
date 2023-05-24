@@ -1,0 +1,24 @@
+Kor: 1
+_HV --> 9, 9
+
+Kor: 2
+_VH --> 9, 9
+
+Kor: 3
+_X_ --> Harc! 7, 8
+
+Kor: 4
+__X --> Harc! 3, 3
+
+Kor: 5
+HV_ --> 3, 3
+
+Kor: 6
+_X_ --> Harc! 1, 1
+
+Kor: 7
+X__ --> Harc! 0, 0
+
+Jatek vege!
+Dontetlen!
+
